@@ -1,0 +1,8 @@
+id,firstName,lastName,salary,managerId
+1,CEO,Boss,100000,
+2,Manager,A,80000,1
+3,Manager,B,70000,2
+4,Manager,C,60000,3
+5,Manager,D,50000,4
+6,Employee,E,40000,5
+7,Employee,F,30000,6

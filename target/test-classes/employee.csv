@@ -1,0 +1,6 @@
+id,firstName,lastName,salary,managerId
+123,Aswini,Avula,53750,
+124,Ajith,Chekov,44000,123
+125,Pawan,Kalyan,28000,123
+300,Vikram,Hasacat,abc,124
+305,Aparna,Rajesh,34000,300

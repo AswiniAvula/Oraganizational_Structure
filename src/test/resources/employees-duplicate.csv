@@ -1,0 +1,6 @@
+id,firstName,lastName,salary,managerId
+123,Aswini,Avula,60000,
+124,Ajith,Kumar,45000,123
+124,Pawan,Kalyan,47000,123
+300,Aparna,Rajesh,50000,124
+305,Vikram,Hardleaf,34000,300
